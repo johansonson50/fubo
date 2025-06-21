@@ -5,7 +5,7 @@ How to Sign In Fubo TV Account? Easy Guide
    :caption: Contents: 
 
 
-.. image:: docs/Add a subheading (2).gif
+.. image:: signin.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
